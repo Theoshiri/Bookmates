@@ -1,16 +1,11 @@
-# bookmates
+# Bookmates
 
-A new Flutter project.
+Final project for CS 4750 Mobile App Development course.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+In search of a book? Want to meet others who share the same interests? Look no further. Bookmates offers users a platform to search and catalog their favorite books, as well as meet other book lovers and create their own book clubs!
 
-A few resources to get you started if this is your first Flutter project:
+## Future Updates
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hopefully, I will be able to implement more functionality to customizing user profiles and adding an option for users to leave their own reviews of books, as well as display other user profiles and reviews. Another goal is to provide users the opportunity to create their own book clubs and host discussions/forums.
